@@ -1,4 +1,4 @@
-package 프로그래머스.문자열;
+package 프로그래머스.문자열.문자열;
 
 public class 크기가작은문자열 {
 	public int solution(String t, String p) {

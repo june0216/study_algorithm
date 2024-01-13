@@ -1,4 +1,4 @@
-package 프로그래머스.문자열;
+package 프로그래머스.문자열.문자열;
 
 import java.util.Scanner;
 
